@@ -1,4 +1,4 @@
-module github.com/n0madic/cloudping
+module github.com/m7mdcc/cloudping
 
 go 1.16
 
