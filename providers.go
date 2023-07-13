@@ -61,6 +61,7 @@ var providers = provider{
 			{name: "cn-zhangjiakou", location: "Zhangjiakou, CN"},
 			{name: "eu-central-1", location: "Frankfurt, DE"},
 			{name: "eu-west-1", location: "London, UK"},
+			{name: "me-central-1", location: "Riyadh, SA"},
 			{name: "me-east-1", location: "Dubai, AE"},
 			{name: "us-east-1", location: "Virginia, US"},
 			{name: "us-west-1", location: "California, US"},
